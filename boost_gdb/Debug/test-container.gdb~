@@ -1,0 +1,17 @@
+p test
+c
+fin
+p fset
+p itr
+p empty_itr
+#flat_map
+c
+fin
+p fmap
+c
+fin
+p fmap
+p itr
+p empty_itr
+c
+q
