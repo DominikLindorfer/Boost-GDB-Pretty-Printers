@@ -23,14 +23,18 @@ p a
 
 p test
 
+6)
+
+Quit
+
 -----------------------------------------
 Steps to Register Pretty-Printers for GDB
 -----------------------------------------
 0) download mod. printers for phyton 3 from https://github.com/mateidavid/Boost-Pretty-Printer
 1) Copy Printers in any Sub-Directory into /home/lindorfer/gdb_printers/python/SubDirectory
-2) Make a __init__.py file in that Sub-Directory (i.e. boost)
+2) Make a __init__.py file in that Sub-Directory (e.g. boost)
 3) Edit the .gdbinit
-i.e.
+e.g.
 
 python
 import sys 

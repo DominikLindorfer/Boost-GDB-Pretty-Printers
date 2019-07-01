@@ -4,6 +4,7 @@
 
 # Copyright (C) 2009 Rüdiger Sonderfeld <ruediger@c-plusplus.de>
 # Copyright (C) 2014 Matei David <matei@cs.toronto.edu>
+# Copyright (C) 2016 Dominik Lindorfer <dlindo@posteo.at>
 
 # Boost Software License - Version 1.0 - August 17th, 2003
 
