@@ -22,3 +22,7 @@ To install clone or download the content of this repository. Then add the follow
 
 where PATH_TO_REPOSITORY is the absolute path to the files contained in this repository. If no *.gdbinit* file exists just create it. For simplicity I've included my own *.gdbinit* file, where the files of this repository are stored at '/home/lindorfer/gdb_printers/python'.
 
+## Example
+
+![Debug](https://user-images.githubusercontent.com/21077042/96250845-c8f31780-0faf-11eb-80a4-9c9bd27fb0b7.png)
+
